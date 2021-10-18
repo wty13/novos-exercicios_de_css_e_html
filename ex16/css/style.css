@@ -1,11 +1,8 @@
 div{
-	width: 600px;
-	height: 800px;
+	width: 800px;
+	height: 600px;
 	border: 1px solid black;
-}
-
-body{
 	background-image: url(../img/tree-g0466a2976_640.jpg);
-	size: 25%;
+	background-size: 25%;
 	background-repeat: repeat-y;
 }

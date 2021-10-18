@@ -1,0 +1,14 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#filha{
+	width: 100px;
+	height: 100px;
+	background-color: gray;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
